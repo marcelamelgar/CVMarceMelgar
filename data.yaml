@@ -1,0 +1,45 @@
+--- # MiniProyecto CV
+fotografia: avatar.png
+informacion_pagina:
+    autor: Marcela Melgar
+    titulo: Mi CV
+informacion_personal:
+    nombre_completo: Marcela Isabel Melgar Gonzalez
+    pais_de_nacimiento: Guatemala
+    idiomas:
+        - Español
+        - Ingles
+    edad: 18
+    acerca_de_mi: Apacionada por la danza y las matematicas. Me gusta poder resolver problemas por medio de procesos de logica matematica, que tengan una respuesta concreta. Soy alguien a quien le gusta ser retada para asi poder crecer y progresar en lo que hago.
+    experiencia: Educadora de Danza de Verano
+    correo: marcelamelgar@ufm.edu
+    telefono: 58731821
+    intereses:
+        - Me apasiona bailar y todo lo que va relacionado con poderse expresar por medio de movimientos corporales y expresiones faciales.
+        - Me encanta entrenar Crossfit y ser super competitiva conmigo misma.
+        - Me gusta aprender nuevos idiomas y compartir con personas de distintas culturas.
+        - Descubrir musica internacional y aprender un poco sobre culturas por medio de la misma.
+        - Me gusta formar parte de distintas competencias por la adrenalina, disciplina y diversos aprendizajes que se obtienen de las mismas.
+informacion_profesional:
+    tecnologias: 
+        - Python
+        - C Programming
+        - JAVA
+    educacion: Universidad Francisco Marroquin
+    carrera: Computer Science
+informacion_referencias:
+    referencias_laborales: 
+        - Maria Morales : mariamorales@valleverde.edu
+        - Gabriela Rodriguez : gabrielarodriguez@gmail.com
+        - Yosef Maldonado : yosefmaldonado@ufm.edu
+        - Victor Morales : victormorales@ufm.edu 
+    referencia_personal: 
+        - Andrea Pazos : andreapazos@dancecomplex.gt
+        - Ximena Acevedo : ximenaacevedo@gmail.com
+        - Mirna Moreno : mirnamoreno@hotmail.com
+        - Milton Vega : miltonvega@gmail.com
+contactos:
+    - Twitter: https://twitter.com/MMelgar03
+    - Instagram: https://www.instagram.com/marcemelgaar/?hl=en
+    - Facebook: https://www.facebook.com/marce.melgar.39
+    - LinkedIn: https://www.linkedin.com/in/marcela-isabel-melgar-gonzalez-b537021b4/
